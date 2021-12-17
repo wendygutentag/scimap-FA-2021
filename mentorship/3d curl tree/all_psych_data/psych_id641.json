@@ -1,0 +1,23 @@
+{
+    "name":"TONY  RO",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"neuro",
+    "researcharea_color":"#F3E09A",
+    "children":[
+        {
+            "name":"MARJAN  PERSUH",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"neuro",
+            "researcharea_color":"#F3E09A"
+        },
+        {
+            "name":"JAVIER OMAR GARCIA",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"neuro",
+            "researcharea_color":"#F3E09A"
+        }
+    ]
+}

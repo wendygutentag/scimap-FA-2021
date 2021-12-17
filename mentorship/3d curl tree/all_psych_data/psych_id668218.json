@@ -1,0 +1,16 @@
+{
+    "name":"AVI  BEN-ZEEV",
+    "gender":"unknown",
+    "gender_color":"grey",
+    "researcharea":"psych",
+    "researcharea_color":"#3CDE38",
+    "children":[
+        {
+            "name":"TARA C DENNEHY",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"psych",
+            "researcharea_color":"#3CDE38"
+        }
+    ]
+}

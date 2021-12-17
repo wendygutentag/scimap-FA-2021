@@ -1,0 +1,16 @@
+{
+    "name":"ADRIAN  DUNN",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"psych",
+    "researcharea_color":"#3CDE38",
+    "children":[
+        {
+            "name":"ASHLEY  JENSEN",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"psych",
+            "researcharea_color":"#3CDE38"
+        }
+    ]
+}

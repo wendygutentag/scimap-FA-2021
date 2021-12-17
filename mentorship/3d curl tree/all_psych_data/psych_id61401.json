@@ -1,0 +1,16 @@
+{
+    "name":"PHILIP  CORR",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"neuro",
+    "researcharea_color":"#F3E09A",
+    "children":[
+        {
+            "name":"ULRICH  ETTINGER",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"neuro",
+            "researcharea_color":"#F3E09A"
+        }
+    ]
+}

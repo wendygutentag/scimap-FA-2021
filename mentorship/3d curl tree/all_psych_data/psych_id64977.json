@@ -1,0 +1,23 @@
+{
+    "name":"JULIA  HEIMAN",
+    "gender":"woman",
+    "gender_color":"red",
+    "researcharea":"neuro",
+    "researcharea_color":"#F3E09A",
+    "children":[
+        {
+            "name":"REBECCA  GREGORY",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"neuro",
+            "researcharea_color":"#F3E09A"
+        },
+        {
+            "name":"YVETTE N HILL",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"neuro",
+            "researcharea_color":"#F3E09A"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "name":"B KENT  PARKER",
+    "gender":"unknown",
+    "gender_color":"grey",
+    "researcharea":"neuro",
+    "researcharea_color":"#F3E09A",
+    "children":[
+        {
+            "name":"SHERRY L SERDIKOFF",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"neuro",
+            "researcharea_color":"#F3E09A"
+        }
+    ]
+}

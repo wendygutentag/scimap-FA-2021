@@ -1,0 +1,16 @@
+{
+    "name":"J STEVEN  REZNICK",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"neuro",
+    "researcharea_color":"#F3E09A",
+    "children":[
+        {
+            "name":"NOAH J SASSON",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"neuro",
+            "researcharea_color":"#F3E09A"
+        }
+    ]
+}

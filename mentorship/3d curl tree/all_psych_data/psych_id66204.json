@@ -1,0 +1,16 @@
+{
+    "name":"ROSA  RODRIGUEZ-BAILON",
+    "gender":"woman",
+    "gender_color":"red",
+    "researcharea":"neuro",
+    "researcharea_color":"#F3E09A",
+    "children":[
+        {
+            "name":"ELENA  CANADAS",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"neuro",
+            "researcharea_color":"#F3E09A"
+        }
+    ]
+}

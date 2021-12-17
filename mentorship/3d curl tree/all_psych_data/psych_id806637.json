@@ -1,0 +1,25 @@
+{
+    "name":"FRANCES A HILL",
+    "gender":"woman",
+    "gender_color":"red",
+    "researcharea":"psych",
+    "researcharea_color":"#3CDE38",
+    "children":[
+        {
+            "name":"MICHELLE  CEYNAR",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"psych",
+            "researcharea_color":"#3CDE38",
+            "children":[
+                {
+                    "name":"CARA  ZINN",
+                    "gender":"woman",
+                    "gender_color":"red",
+                    "researcharea":"psych",
+                    "researcharea_color":"#3CDE38"
+                }
+            ]
+        }
+    ]
+}

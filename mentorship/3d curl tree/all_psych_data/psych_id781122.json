@@ -1,0 +1,16 @@
+{
+    "name":"PAUL  MALLOY",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"psych",
+    "researcharea_color":"#3CDE38",
+    "children":[
+        {
+            "name":"BRIAN C CASTELLUCCIO",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"psych",
+            "researcharea_color":"#3CDE38"
+        }
+    ]
+}

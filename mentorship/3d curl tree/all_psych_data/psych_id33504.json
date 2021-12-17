@@ -1,0 +1,25 @@
+{
+    "name":"JILL  IRWIN",
+    "gender":"woman",
+    "gender_color":"red",
+    "researcharea":"neuro",
+    "researcharea_color":"#F3E09A",
+    "children":[
+        {
+            "name":"LIISA  GALEA",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"neuro",
+            "researcharea_color":"#F3E09A",
+            "children":[
+                {
+                    "name":"CINDY K BARHA",
+                    "gender":"woman",
+                    "gender_color":"red",
+                    "researcharea":"neuro",
+                    "researcharea_color":"#F3E09A"
+                }
+            ]
+        }
+    ]
+}

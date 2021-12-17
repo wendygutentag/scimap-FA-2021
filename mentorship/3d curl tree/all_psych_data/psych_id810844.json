@@ -1,0 +1,16 @@
+{
+    "name":"JEAN-MARC  MONTEIL",
+    "gender":"unknown",
+    "gender_color":"grey",
+    "researcharea":"psych",
+    "researcharea_color":"#3CDE38",
+    "children":[
+        {
+            "name":"ISABELLE  REGNER",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"psych",
+            "researcharea_color":"#3CDE38"
+        }
+    ]
+}

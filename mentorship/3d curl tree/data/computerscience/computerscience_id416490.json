@@ -1,0 +1,16 @@
+{
+    "name":"KATERINA D GOSEVA-POPSTOJANOVA",
+    "gender":"woman",
+    "gender_color":"red",
+    "researcharea":"computerscience",
+    "researcharea_color":"#10887E",
+    "children":[
+        {
+            "name":"MARGARET L HAMILL",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"computerscience",
+            "researcharea_color":"#10887E"
+        }
+    ]
+}

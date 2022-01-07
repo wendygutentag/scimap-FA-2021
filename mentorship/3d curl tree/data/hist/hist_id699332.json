@@ -1,0 +1,16 @@
+{
+    "name":"LOUISE  RICE",
+    "gender":"woman",
+    "gender_color":"red",
+    "researcharea":"hist",
+    "researcharea_color":"#68A839",
+    "children":[
+        {
+            "name":"RACHEL L MCGARRY",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"hist",
+            "researcharea_color":"#68A839"
+        }
+    ]
+}

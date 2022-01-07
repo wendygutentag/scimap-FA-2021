@@ -1,0 +1,16 @@
+{
+    "name":"VOLKER  ASCHOFF",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"etree",
+    "researcharea_color":"#007235",
+    "children":[
+        {
+            "name":"HANS WILHELM SCHUSSLER",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"etree",
+            "researcharea_color":"#007235"
+        }
+    ]
+}

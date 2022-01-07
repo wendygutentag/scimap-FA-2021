@@ -1,0 +1,16 @@
+{
+    "name":"NDAONA  CHOKANI",
+    "gender":"unknown",
+    "gender_color":"grey",
+    "researcharea":"physics",
+    "researcharea_color":"#573470",
+    "children":[
+        {
+            "name":"ALISON L SCARFE",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"physics",
+            "researcharea_color":"#573470"
+        }
+    ]
+}

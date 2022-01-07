@@ -1,0 +1,16 @@
+{
+    "name":"GARNETT  BRYANT",
+    "gender":"unknown",
+    "gender_color":"grey",
+    "researcharea":"physics",
+    "researcharea_color":"#573470",
+    "children":[
+        {
+            "name":"RYAN D ARTUSO",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"physics",
+            "researcharea_color":"#573470"
+        }
+    ]
+}

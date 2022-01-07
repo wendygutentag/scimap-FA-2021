@@ -1,0 +1,41 @@
+{
+    "name":"ARTHUR MORITZ SCHOENFLIES",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"chemistry",
+    "researcharea_color":"#B0313D",
+    "children":[
+        {
+            "name":"STANISLAW  TOLLOCZKO",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"chemistry",
+            "researcharea_color":"#B0313D",
+            "children":[
+                {
+                    "name":"WIKTOR  KEMULA",
+                    "gender":"man",
+                    "gender_color":"blue",
+                    "researcharea":"chemistry",
+                    "researcharea_color":"#B0313D",
+                    "children":[
+                        {
+                            "name":"ANDRZEJ  LASIA",
+                            "gender":"man",
+                            "gender_color":"blue",
+                            "researcharea":"chemistry",
+                            "researcharea_color":"#B0313D"
+                        }
+                    ]
+                },
+                {
+                    "name":"WIKTOR  JAKOB",
+                    "gender":"man",
+                    "gender_color":"blue",
+                    "researcharea":"chemistry",
+                    "researcharea_color":"#B0313D"
+                }
+            ]
+        }
+    ]
+}

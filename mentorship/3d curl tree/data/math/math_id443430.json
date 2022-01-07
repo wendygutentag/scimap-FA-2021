@@ -1,0 +1,16 @@
+{
+    "name":"SIEN  DENG",
+    "gender":"unknown",
+    "gender_color":"grey",
+    "researcharea":"math",
+    "researcharea_color":"#8F3CCC",
+    "children":[
+        {
+            "name":"LAURA J KETTNER",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"math",
+            "researcharea_color":"#8F3CCC"
+        }
+    ]
+}

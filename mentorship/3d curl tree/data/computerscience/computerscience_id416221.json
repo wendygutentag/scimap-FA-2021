@@ -1,0 +1,16 @@
+{
+    "name":"DIANE T ROVER",
+    "gender":"woman",
+    "gender_color":"red",
+    "researcharea":"computerscience",
+    "researcharea_color":"#10887E",
+    "children":[
+        {
+            "name":"NAYDA G SANTIAGO SANTIAGO",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"computerscience",
+            "researcharea_color":"#10887E"
+        }
+    ]
+}

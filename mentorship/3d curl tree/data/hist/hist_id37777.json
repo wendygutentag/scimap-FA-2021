@@ -1,0 +1,34 @@
+{
+    "name":"GEORGE  SARTON",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"hist",
+    "researcharea_color":"#68A839",
+    "children":[
+        {
+            "name":"HENRY EDWARD GUERLAC",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"hist",
+            "researcharea_color":"#68A839",
+            "children":[
+                {
+                    "name":"HARRY  WOOLF",
+                    "gender":"man",
+                    "gender_color":"blue",
+                    "researcharea":"astronomy",
+                    "researcharea_color":"#24752C",
+                    "children":[
+                        {
+                            "name":"CRAIG B WAFF",
+                            "gender":"man",
+                            "gender_color":"blue",
+                            "researcharea":"astronomy",
+                            "researcharea_color":"#24752C"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

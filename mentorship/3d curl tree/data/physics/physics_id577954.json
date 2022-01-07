@@ -1,0 +1,32 @@
+{
+    "name":"MORTON  KAPLAN",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"physics",
+    "researcharea_color":"#573470",
+    "children":[
+        {
+            "name":"ARTHUR J NOZIK",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"physics",
+            "researcharea_color":"#573470",
+            "children":[
+                {
+                    "name":"JOHN  TURNER",
+                    "gender":"man",
+                    "gender_color":"blue",
+                    "researcharea":"physics",
+                    "researcharea_color":"#573470"
+                }
+            ]
+        },
+        {
+            "name":"CHRISTOPHER L KUNZ",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"physics",
+            "researcharea_color":"#573470"
+        }
+    ]
+}

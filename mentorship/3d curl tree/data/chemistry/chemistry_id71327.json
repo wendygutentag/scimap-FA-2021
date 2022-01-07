@@ -1,0 +1,34 @@
+{
+    "name":"ILIANA  DIMICOLI",
+    "gender":"woman",
+    "gender_color":"red",
+    "researcharea":"chemistry",
+    "researcharea_color":"#B0313D",
+    "children":[
+        {
+            "name":"PIERRE  ASSELIN",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"chemistry",
+            "researcharea_color":"#B0313D",
+            "children":[
+                {
+                    "name":"MANUELA  CIRTOG",
+                    "gender":"woman",
+                    "gender_color":"red",
+                    "researcharea":"chemistry",
+                    "researcharea_color":"#B0313D",
+                    "children":[
+                        {
+                            "name":"AXEL  FOUQUEAU",
+                            "gender":"man",
+                            "gender_color":"blue",
+                            "researcharea":"chemistry",
+                            "researcharea_color":"#B0313D"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

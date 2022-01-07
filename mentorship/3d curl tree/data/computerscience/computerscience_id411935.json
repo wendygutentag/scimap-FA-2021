@@ -1,0 +1,30 @@
+{
+    "name":"SHERI D SHEPPARD",
+    "gender":"woman",
+    "gender_color":"red",
+    "researcharea":"computerscience",
+    "researcharea_color":"#10887E",
+    "children":[
+        {
+            "name":"BERNADETTE  LUNA",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"computerscience",
+            "researcharea_color":"#10887E"
+        },
+        {
+            "name":"KRISTA M DONALDSON",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"computerscience",
+            "researcharea_color":"#10887E"
+        },
+        {
+            "name":"SIAN W TAN",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"computerscience",
+            "researcharea_color":"#10887E"
+        }
+    ]
+}

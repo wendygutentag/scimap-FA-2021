@@ -1,0 +1,25 @@
+{
+    "name":"BRIAN J WHIPP",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"neuro",
+    "researcharea_color":"#F3E09A",
+    "children":[
+        {
+            "name":"HARRY B ROSSITER",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"neuro",
+            "researcharea_color":"#F3E09A",
+            "children":[
+                {
+                    "name":"SCOTT R MURGATROYD",
+                    "gender":"man",
+                    "gender_color":"blue",
+                    "researcharea":"neuro",
+                    "researcharea_color":"#F3E09A"
+                }
+            ]
+        }
+    ]
+}

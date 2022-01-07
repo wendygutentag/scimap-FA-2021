@@ -1,0 +1,34 @@
+{
+    "name":"MARTIN  FEIGEL",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"chemistry",
+    "researcharea_color":"#B0313D",
+    "children":[
+        {
+            "name":"THOMAS  STRASSNER",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"chemistry",
+            "researcharea_color":"#B0313D",
+            "children":[
+                {
+                    "name":"DOMINIK  MUNZ",
+                    "gender":"man",
+                    "gender_color":"blue",
+                    "researcharea":"chemistry",
+                    "researcharea_color":"#B0313D",
+                    "children":[
+                        {
+                            "name":"STEPHAN  HOHLOCH",
+                            "gender":"man",
+                            "gender_color":"blue",
+                            "researcharea":"chemistry",
+                            "researcharea_color":"#B0313D"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

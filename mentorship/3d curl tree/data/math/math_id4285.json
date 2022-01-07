@@ -1,0 +1,25 @@
+{
+    "name":"ROGER C SCHANK",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"neuro",
+    "researcharea_color":"#F3E09A",
+    "children":[
+        {
+            "name":"ASHWIN  RAM",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"neuro",
+            "researcharea_color":"#F3E09A",
+            "children":[
+                {
+                    "name":"ANTHONY GERALD FRANCIS",
+                    "gender":"man",
+                    "gender_color":"blue",
+                    "researcharea":"neuro",
+                    "researcharea_color":"#F3E09A"
+                }
+            ]
+        }
+    ]
+}

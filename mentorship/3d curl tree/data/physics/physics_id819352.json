@@ -1,0 +1,25 @@
+{
+    "name":"JOSE MIGUEL RUBI",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"physics",
+    "researcharea_color":"#573470",
+    "children":[
+        {
+            "name":"IGNACIO  PAGONABARRAGA",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"physics",
+            "researcharea_color":"#573470",
+            "children":[
+                {
+                    "name":"ELOY NAVARRO ARGEMI",
+                    "gender":"man",
+                    "gender_color":"blue",
+                    "researcharea":"physics",
+                    "researcharea_color":"#573470"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "name":"CHONG-YUN  CHAO",
+    "gender":"unknown",
+    "gender_color":"grey",
+    "researcharea":"math",
+    "researcharea_color":"#8F3CCC",
+    "children":[
+        {
+            "name":"AMELA  BEGOVIC-MURATOVIC",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"math",
+            "researcharea_color":"#8F3CCC"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "name":"PHILIP MARVIN YAGER",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"physics",
+    "researcharea_color":"#573470",
+    "children":[
+        {
+            "name":"VITTORIO  PAOLONE",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"physics",
+            "researcharea_color":"#573470",
+            "children":[
+                {
+                    "name":"SHANTI  WENDLER",
+                    "gender":"woman",
+                    "gender_color":"red",
+                    "researcharea":"physics",
+                    "researcharea_color":"#573470"
+                }
+            ]
+        },
+        {
+            "name":"JONATHAN M LINK",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"physics",
+            "researcharea_color":"#573470"
+        }
+    ]
+}

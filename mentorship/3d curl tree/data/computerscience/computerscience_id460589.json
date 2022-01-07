@@ -1,0 +1,16 @@
+{
+    "name":"AN-I  ANDY WANG",
+    "gender":"unknown",
+    "gender_color":"grey",
+    "researcharea":"computerscience",
+    "researcharea_color":"#10887E",
+    "children":[
+        {
+            "name":"SARAH M DIESBURG",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"computerscience",
+            "researcharea_color":"#10887E"
+        }
+    ]
+}

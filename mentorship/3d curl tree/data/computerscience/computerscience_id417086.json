@@ -1,0 +1,16 @@
+{
+    "name":"JEAN-PIERRE  CORRIVEAU",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"computerscience",
+    "researcharea_color":"#10887E",
+    "children":[
+        {
+            "name":"JUAN P ZAMORA ZAPATA",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"computerscience",
+            "researcharea_color":"#10887E"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "name":"EVERT JAN DIEST LORGION",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"theology",
+    "researcharea_color":"#1EC5F6",
+    "children":[
+        {
+            "name":"HAJO UDEN MEYBOOM",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"theology",
+            "researcharea_color":"#1EC5F6"
+        }
+    ]
+}

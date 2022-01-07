@@ -1,0 +1,16 @@
+{
+    "name":"CARL  FRAENKEL",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"idtree",
+    "researcharea_color":"#D16086",
+    "children":[
+        {
+            "name":"FREDERICK GEORGE NOVY",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"idtree",
+            "researcharea_color":"#D16086"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "name":"MARIA L GANDARIAS NUNEZ",
+    "gender":"woman",
+    "gender_color":"red",
+    "researcharea":"math",
+    "researcharea_color":"#8F3CCC",
+    "children":[
+        {
+            "name":"SOLEDAD M SAEZ MARTINEZ",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"math",
+            "researcharea_color":"#8F3CCC"
+        }
+    ]
+}

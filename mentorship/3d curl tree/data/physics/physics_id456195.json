@@ -1,0 +1,16 @@
+{
+    "name":"LEENA  HILAKIVI-CLARKE",
+    "gender":"woman",
+    "gender_color":"red",
+    "researcharea":"physics",
+    "researcharea_color":"#573470",
+    "children":[
+        {
+            "name":"ALLISON M SUMIS",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"physics",
+            "researcharea_color":"#573470"
+        }
+    ]
+}

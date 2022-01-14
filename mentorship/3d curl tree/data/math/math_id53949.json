@@ -1,0 +1,16 @@
+{
+    "name":"JAMES  PUSTEJOVSKY",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"ling",
+    "researcharea_color":"#DE12F5",
+    "children":[
+        {
+            "name":"SABINE  BERGER",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"ling",
+            "researcharea_color":"#DE12F5"
+        }
+    ]
+}

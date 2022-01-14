@@ -1,0 +1,16 @@
+{
+    "name":"JOSEPT M ROSENBLATT",
+    "gender":"woman",
+    "gender_color":"red",
+    "researcharea":"math",
+    "researcharea_color":"#8F3CCC",
+    "children":[
+        {
+            "name":"JANTANA C AYARAGARNCHANAKUL",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"math",
+            "researcharea_color":"#8F3CCC"
+        }
+    ]
+}

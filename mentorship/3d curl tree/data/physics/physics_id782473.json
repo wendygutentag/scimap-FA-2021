@@ -1,0 +1,32 @@
+{
+    "name":"EMILIA  CRESPO DEL ARCO",
+    "gender":"woman",
+    "gender_color":"red",
+    "researcharea":"physics",
+    "researcharea_color":"#573470",
+    "children":[
+        {
+            "name":"RAFAEL  DELGADO BUSCALIONI",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"physics",
+            "researcharea_color":"#573470",
+            "children":[
+                {
+                    "name":"CARMEN  HIJON",
+                    "gender":"woman",
+                    "gender_color":"red",
+                    "researcharea":"physics",
+                    "researcharea_color":"#573470"
+                },
+                {
+                    "name":"FLORENCIO  BALBOA USABIAGA",
+                    "gender":"man",
+                    "gender_color":"blue",
+                    "researcharea":"physics",
+                    "researcharea_color":"#573470"
+                }
+            ]
+        }
+    ]
+}

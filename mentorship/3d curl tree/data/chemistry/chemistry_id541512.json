@@ -1,0 +1,16 @@
+{
+    "name":"ANDRZEJ  WIERASZKO",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"neuro",
+    "researcharea_color":"#F3E09A",
+    "children":[
+        {
+            "name":"AHMED  ABOUELELA",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"chemistry",
+            "researcharea_color":"#B0313D"
+        }
+    ]
+}

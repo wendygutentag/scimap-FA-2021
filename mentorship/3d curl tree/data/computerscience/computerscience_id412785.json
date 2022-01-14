@@ -1,0 +1,16 @@
+{
+    "name":"ZAMIR  BAVEL",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"computerscience",
+    "researcharea_color":"#10887E",
+    "children":[
+        {
+            "name":"MARY K FROHOCK",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"computerscience",
+            "researcharea_color":"#10887E"
+        }
+    ]
+}

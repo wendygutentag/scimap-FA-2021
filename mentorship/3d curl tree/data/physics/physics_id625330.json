@@ -1,0 +1,16 @@
+{
+    "name":"GIRSH  BLUMBERG",
+    "gender":"unknown",
+    "gender_color":"grey",
+    "researcharea":"physics",
+    "researcharea_color":"#573470",
+    "children":[
+        {
+            "name":"ALEKSEJ  MIALITSIN",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"physics",
+            "researcharea_color":"#573470"
+        }
+    ]
+}

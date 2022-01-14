@@ -1,0 +1,25 @@
+{
+    "name":"RUDOLF  KLEIN",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"physics",
+    "researcharea_color":"#573470",
+    "children":[
+        {
+            "name":"JOSE MIGUEL MENDEZ-ALCARAZ",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"physics",
+            "researcharea_color":"#573470",
+            "children":[
+                {
+                    "name":"RAMON  CASTANEDA-PRIEGO",
+                    "gender":"man",
+                    "gender_color":"blue",
+                    "researcharea":"physics",
+                    "researcharea_color":"#573470"
+                }
+            ]
+        }
+    ]
+}

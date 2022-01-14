@@ -1,0 +1,16 @@
+{
+    "name":"CONSTANTINE N MANIKOPOULOS",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"computerscience",
+    "researcharea_color":"#10887E",
+    "children":[
+        {
+            "name":"JOSE L UCLES",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"computerscience",
+            "researcharea_color":"#10887E"
+        }
+    ]
+}

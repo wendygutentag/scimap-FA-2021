@@ -1,0 +1,16 @@
+{
+    "name":"KEMAL E TEPE",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"computerscience",
+    "researcharea_color":"#10887E",
+    "children":[
+        {
+            "name":"NABIH  JABER",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"computerscience",
+            "researcharea_color":"#10887E"
+        }
+    ]
+}

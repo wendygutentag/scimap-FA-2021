@@ -1,0 +1,16 @@
+{
+    "name":"REBECCA A HINES",
+    "gender":"woman",
+    "gender_color":"red",
+    "researcharea":"math",
+    "researcharea_color":"#8F3CCC",
+    "children":[
+        {
+            "name":"MARCEY A KINNEY",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"math",
+            "researcharea_color":"#8F3CCC"
+        }
+    ]
+}

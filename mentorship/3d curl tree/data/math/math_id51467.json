@@ -1,0 +1,16 @@
+{
+    "name":"EVERT JAN BAERENDS",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"chemistry",
+    "researcharea_color":"#B0313D",
+    "children":[
+        {
+            "name":"BEREND  ENSING",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"chemistry",
+            "researcharea_color":"#B0313D"
+        }
+    ]
+}

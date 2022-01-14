@@ -1,0 +1,16 @@
+{
+    "name":"THERESA J GRANT",
+    "gender":"woman",
+    "gender_color":"red",
+    "researcharea":"math",
+    "researcharea_color":"#8F3CCC",
+    "children":[
+        {
+            "name":"NESRIN  CENGIZ",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"math",
+            "researcharea_color":"#8F3CCC"
+        }
+    ]
+}

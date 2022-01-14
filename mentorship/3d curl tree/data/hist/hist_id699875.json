@@ -1,0 +1,16 @@
+{
+    "name":"CHI  ANYANSI-ARCHIBONG",
+    "gender":"unknown",
+    "gender_color":"grey",
+    "researcharea":"hist",
+    "researcharea_color":"#68A839",
+    "children":[
+        {
+            "name":"KANTON T REYNOLDS",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"hist",
+            "researcharea_color":"#68A839"
+        }
+    ]
+}

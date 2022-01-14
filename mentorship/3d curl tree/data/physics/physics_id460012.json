@@ -1,0 +1,16 @@
+{
+    "name":"STAN  DOSSO",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"physics",
+    "researcharea_color":"#573470",
+    "children":[
+        {
+            "name":"GAVIN  STEININGER",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"physics",
+            "researcharea_color":"#573470"
+        }
+    ]
+}

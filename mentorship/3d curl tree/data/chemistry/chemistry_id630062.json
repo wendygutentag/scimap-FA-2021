@@ -1,0 +1,16 @@
+{
+    "name":"MICHAL  DAVIS",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"chemistry",
+    "researcharea_color":"#B0313D",
+    "children":[
+        {
+            "name":"JAY C SY",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"chemistry",
+            "researcharea_color":"#B0313D"
+        }
+    ]
+}

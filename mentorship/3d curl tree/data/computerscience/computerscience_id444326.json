@@ -1,0 +1,23 @@
+{
+    "name":"RAJSHEKHAR  SUNDERRAMAN",
+    "gender":"unknown",
+    "gender_color":"grey",
+    "researcharea":"computerscience",
+    "researcharea_color":"#10887E",
+    "children":[
+        {
+            "name":"PRAVEEN  MADIRAJU",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"computerscience",
+            "researcharea_color":"#10887E"
+        },
+        {
+            "name":"NAVIN  VISWANATH",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"computerscience",
+            "researcharea_color":"#10887E"
+        }
+    ]
+}

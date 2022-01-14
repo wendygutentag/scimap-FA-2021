@@ -1,0 +1,16 @@
+{
+    "name":"KAREN M FISCHER",
+    "gender":"woman",
+    "gender_color":"red",
+    "researcharea":"physics",
+    "researcharea_color":"#573470",
+    "children":[
+        {
+            "name":"CATHERINE A RYCHERT",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"physics",
+            "researcharea_color":"#573470"
+        }
+    ]
+}

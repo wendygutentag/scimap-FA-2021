@@ -1,0 +1,16 @@
+{
+    "name":"DUANNE  GIANNANGELO",
+    "gender":"woman",
+    "gender_color":"red",
+    "researcharea":"math",
+    "researcharea_color":"#8F3CCC",
+    "children":[
+        {
+            "name":"DEBORAH D BRYANT",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"math",
+            "researcharea_color":"#8F3CCC"
+        }
+    ]
+}

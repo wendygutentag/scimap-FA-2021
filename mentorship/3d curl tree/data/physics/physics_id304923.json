@@ -1,0 +1,16 @@
+{
+    "name":"STEPHAN  NARISON",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"physics",
+    "researcharea_color":"#573470",
+    "children":[
+        {
+            "name":"RAPHAEL MOREIRA ALBUQUERQUE",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"physics",
+            "researcharea_color":"#573470"
+        }
+    ]
+}

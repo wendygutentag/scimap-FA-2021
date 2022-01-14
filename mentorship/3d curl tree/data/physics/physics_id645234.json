@@ -1,0 +1,16 @@
+{
+    "name":"FRANCOIS  LE GALL",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"physics",
+    "researcharea_color":"#573470",
+    "children":[
+        {
+            "name":"DAVID J ROSENBAUM",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"physics",
+            "researcharea_color":"#573470"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "name":"KELLY A MECKLING",
+    "gender":"woman",
+    "gender_color":"red",
+    "researcharea":"chemistry",
+    "researcharea_color":"#B0313D",
+    "children":[
+        {
+            "name":"SHERYL A FLANAGAN",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"chemistry",
+            "researcharea_color":"#B0313D"
+        }
+    ]
+}

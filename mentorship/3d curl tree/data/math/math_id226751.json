@@ -1,0 +1,16 @@
+{
+    "name":"PATRICIA A CRAWFORD",
+    "gender":"woman",
+    "gender_color":"red",
+    "researcharea":"math",
+    "researcharea_color":"#8F3CCC",
+    "children":[
+        {
+            "name":"DEBRA C DANIELS",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"math",
+            "researcharea_color":"#8F3CCC"
+        }
+    ]
+}

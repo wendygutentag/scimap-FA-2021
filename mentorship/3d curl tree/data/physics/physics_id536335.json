@@ -1,0 +1,16 @@
+{
+    "name":"GUY  INDEBETOUW",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"physics",
+    "researcharea_color":"#573470",
+    "children":[
+        {
+            "name":"SAMEER  ARABASI",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"physics",
+            "researcharea_color":"#573470"
+        }
+    ]
+}

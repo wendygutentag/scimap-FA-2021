@@ -1,0 +1,16 @@
+{
+    "name":"HARRIETT E SMITH-SOMERVILLE",
+    "gender":"woman",
+    "gender_color":"red",
+    "researcharea":"chemistry",
+    "researcharea_color":"#B0313D",
+    "children":[
+        {
+            "name":"HOPE T ZIEMKIEWICZ",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"chemistry",
+            "researcharea_color":"#B0313D"
+        }
+    ]
+}

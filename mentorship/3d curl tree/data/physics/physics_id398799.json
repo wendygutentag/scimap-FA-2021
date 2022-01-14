@@ -1,0 +1,16 @@
+{
+    "name":"ALLENA K OPPER",
+    "gender":"woman",
+    "gender_color":"red",
+    "researcharea":"physics",
+    "researcharea_color":"#573470",
+    "children":[
+        {
+            "name":"KATHERINE E MYERS",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"physics",
+            "researcharea_color":"#573470"
+        }
+    ]
+}

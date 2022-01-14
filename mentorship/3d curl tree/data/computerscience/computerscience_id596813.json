@@ -1,0 +1,16 @@
+{
+    "name":"GREGORY R GRANGER",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"computerscience",
+    "researcharea_color":"#10887E",
+    "children":[
+        {
+            "name":"SHAFEEQ  SINNAMOHIDEEN",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"computerscience",
+            "researcharea_color":"#10887E"
+        }
+    ]
+}

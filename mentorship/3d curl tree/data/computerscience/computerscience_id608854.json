@@ -1,0 +1,16 @@
+{
+    "name":"CELINE  LATULIPE",
+    "gender":"woman",
+    "gender_color":"red",
+    "researcharea":"computerscience",
+    "researcharea_color":"#10887E",
+    "children":[
+        {
+            "name":"ERIN A CARROLL",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"computerscience",
+            "researcharea_color":"#10887E"
+        }
+    ]
+}

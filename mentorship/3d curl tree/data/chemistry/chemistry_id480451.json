@@ -1,0 +1,16 @@
+{
+    "name":"STEVE  CAPLAN",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"chemistry",
+    "researcharea_color":"#B0313D",
+    "children":[
+        {
+            "name":"MARKO  JOVIC",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"chemistry",
+            "researcharea_color":"#B0313D"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "name":"GIREESH  RAJASHEKARA",
+    "gender":"unknown",
+    "gender_color":"grey",
+    "researcharea":"chemistry",
+    "researcharea_color":"#B0313D",
+    "children":[
+        {
+            "name":"MARY R DROZD",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"chemistry",
+            "researcharea_color":"#B0313D"
+        }
+    ]
+}

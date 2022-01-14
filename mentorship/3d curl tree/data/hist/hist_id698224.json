@@ -1,0 +1,16 @@
+{
+    "name":"MEGAN  MCLAUGHLIN",
+    "gender":"woman",
+    "gender_color":"red",
+    "researcharea":"hist",
+    "researcharea_color":"#68A839",
+    "children":[
+        {
+            "name":"PAULA M RIEDER",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"hist",
+            "researcharea_color":"#68A839"
+        }
+    ]
+}

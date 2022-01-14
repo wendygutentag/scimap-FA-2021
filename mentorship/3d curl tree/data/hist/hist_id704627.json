@@ -1,0 +1,30 @@
+{
+    "name":"FRANCOIS  SIGAUT",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"hist",
+    "researcharea_color":"#68A839",
+    "children":[
+        {
+            "name":"CAROLINA  CARPINSCHI",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"hist",
+            "researcharea_color":"#68A839"
+        },
+        {
+            "name":"JEANNE  RIAUX",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"hist",
+            "researcharea_color":"#68A839"
+        },
+        {
+            "name":"SOPHIE  COLLIGNON",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"hist",
+            "researcharea_color":"#68A839"
+        }
+    ]
+}

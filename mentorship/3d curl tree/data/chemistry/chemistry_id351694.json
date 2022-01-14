@@ -1,0 +1,16 @@
+{
+    "name":"JUAN  HONG",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"chemistry",
+    "researcharea_color":"#B0313D",
+    "children":[
+        {
+            "name":"SUNG H HA",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"chemistry",
+            "researcharea_color":"#B0313D"
+        }
+    ]
+}

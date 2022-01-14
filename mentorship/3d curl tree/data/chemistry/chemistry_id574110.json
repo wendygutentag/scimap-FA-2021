@@ -1,0 +1,16 @@
+{
+    "name":"FRASER  SCOTT",
+    "gender":"unknown",
+    "gender_color":"grey",
+    "researcharea":"chemistry",
+    "researcharea_color":"#B0313D",
+    "children":[
+        {
+            "name":"KAROLINA M BURGHARDT",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"chemistry",
+            "researcharea_color":"#B0313D"
+        }
+    ]
+}

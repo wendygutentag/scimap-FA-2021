@@ -1,0 +1,16 @@
+{
+    "name":"JULIO  ESPINOSA",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"psych",
+    "researcharea_color":"#3CDE38",
+    "children":[
+        {
+            "name":"OSCAR  ZAMORA-AREVALO",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"psych",
+            "researcharea_color":"#3CDE38"
+        }
+    ]
+}

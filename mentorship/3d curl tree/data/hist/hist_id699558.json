@@ -1,0 +1,16 @@
+{
+    "name":"LARRY J SIMON",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"hist",
+    "researcharea_color":"#68A839",
+    "children":[
+        {
+            "name":"TRAVIS  BRUCE",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"hist",
+            "researcharea_color":"#68A839"
+        }
+    ]
+}

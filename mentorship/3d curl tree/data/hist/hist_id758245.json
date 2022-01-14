@@ -1,0 +1,25 @@
+{
+    "name":"MALCOLM CHARLES MOOS",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"hist",
+    "researcharea_color":"#68A839",
+    "children":[
+        {
+            "name":"GEORGE L GRASSMUCK",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"hist",
+            "researcharea_color":"#68A839",
+            "children":[
+                {
+                    "name":"NIMROD  RAPHAELI",
+                    "gender":"man",
+                    "gender_color":"blue",
+                    "researcharea":"hist",
+                    "researcharea_color":"#68A839"
+                }
+            ]
+        }
+    ]
+}

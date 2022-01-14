@@ -1,0 +1,16 @@
+{
+    "name":"ERNEST W ROBB",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"chemistry",
+    "researcharea_color":"#B0313D",
+    "children":[
+        {
+            "name":"JOHN M BERGER",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"chemistry",
+            "researcharea_color":"#B0313D"
+        }
+    ]
+}

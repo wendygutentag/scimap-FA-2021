@@ -1,0 +1,16 @@
+{
+    "name":"SHEY-SHING  SHEU",
+    "gender":"unknown",
+    "gender_color":"grey",
+    "researcharea":"neuro",
+    "researcharea_color":"#F3E09A",
+    "children":[
+        {
+            "name":"ROBERT T DIRKSEN",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"neuro",
+            "researcharea_color":"#F3E09A"
+        }
+    ]
+}

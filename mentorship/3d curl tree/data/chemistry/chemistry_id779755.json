@@ -1,0 +1,32 @@
+{
+    "name":"SANTE  MATTSON",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"chemistry",
+    "researcharea_color":"#B0313D",
+    "children":[
+        {
+            "name":"SHLOMO  RAVIKOVITCH",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"chemistry",
+            "researcharea_color":"#B0313D",
+            "children":[
+                {
+                    "name":"NOAM  LAHAV",
+                    "gender":"man",
+                    "gender_color":"blue",
+                    "researcharea":"chemistry",
+                    "researcharea_color":"#B0313D"
+                },
+                {
+                    "name":"AMOS  BANIN",
+                    "gender":"man",
+                    "gender_color":"blue",
+                    "researcharea":"chemistry",
+                    "researcharea_color":"#B0313D"
+                }
+            ]
+        }
+    ]
+}

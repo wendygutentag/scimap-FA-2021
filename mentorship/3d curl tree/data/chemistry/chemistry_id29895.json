@@ -1,0 +1,25 @@
+{
+    "name":"KENNETH W HORCH",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"neuro",
+    "researcharea_color":"#F3E09A",
+    "children":[
+        {
+            "name":"KEN  YOSHIDA",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"neuro",
+            "researcharea_color":"#F3E09A",
+            "children":[
+                {
+                    "name":"DAVID R SEMPSROTT",
+                    "gender":"man",
+                    "gender_color":"blue",
+                    "researcharea":"neuro",
+                    "researcharea_color":"#F3E09A"
+                }
+            ]
+        }
+    ]
+}

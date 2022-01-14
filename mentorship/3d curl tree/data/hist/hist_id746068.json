@@ -1,0 +1,32 @@
+{
+    "name":"YAMATO  ICHIHASHI",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"hist",
+    "researcharea_color":"#68A839",
+    "children":[
+        {
+            "name":"DELMER M BROWN",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"hist",
+            "researcharea_color":"#68A839",
+            "children":[
+                {
+                    "name":"JANET  GOODWIN",
+                    "gender":"woman",
+                    "gender_color":"red",
+                    "researcharea":"hist",
+                    "researcharea_color":"#68A839"
+                },
+                {
+                    "name":"THOMAS R H HAVENS",
+                    "gender":"man",
+                    "gender_color":"blue",
+                    "researcharea":"hist",
+                    "researcharea_color":"#68A839"
+                }
+            ]
+        }
+    ]
+}

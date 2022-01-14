@@ -1,0 +1,16 @@
+{
+    "name":"MARY  BRUK",
+    "gender":"woman",
+    "gender_color":"red",
+    "researcharea":"chemistry",
+    "researcharea_color":"#B0313D",
+    "children":[
+        {
+            "name":"KELLY M WILLIAMSON",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"chemistry",
+            "researcharea_color":"#B0313D"
+        }
+    ]
+}

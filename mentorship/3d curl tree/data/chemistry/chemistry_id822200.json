@@ -1,0 +1,16 @@
+{
+    "name":"G SATHEESH REDDY",
+    "gender":"unknown",
+    "gender_color":"grey",
+    "researcharea":"chemistry",
+    "researcharea_color":"#B0313D",
+    "children":[
+        {
+            "name":"MURALI VARAPRASAD ANDE",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"chemistry",
+            "researcharea_color":"#B0313D"
+        }
+    ]
+}

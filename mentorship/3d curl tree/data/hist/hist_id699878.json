@@ -1,0 +1,16 @@
+{
+    "name":"REBECCA  SHARPLESS",
+    "gender":"woman",
+    "gender_color":"red",
+    "researcharea":"hist",
+    "researcharea_color":"#68A839",
+    "children":[
+        {
+            "name":"ELIZABETH S MOCZYGEMBA",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"hist",
+            "researcharea_color":"#68A839"
+        }
+    ]
+}

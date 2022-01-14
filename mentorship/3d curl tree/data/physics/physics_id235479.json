@@ -1,0 +1,16 @@
+{
+    "name":"CLEMENT G CHASE",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"physics",
+    "researcharea_color":"#573470",
+    "children":[
+        {
+            "name":"AVIVA J SUSSMAN",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"physics",
+            "researcharea_color":"#573470"
+        }
+    ]
+}

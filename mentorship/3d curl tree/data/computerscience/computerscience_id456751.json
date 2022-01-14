@@ -1,0 +1,16 @@
+{
+    "name":"GEORGE M MARAKAS",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"computerscience",
+    "researcharea_color":"#10887E",
+    "children":[
+        {
+            "name":"MIGUEL I AGUIRRE URRETA",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"computerscience",
+            "researcharea_color":"#10887E"
+        }
+    ]
+}

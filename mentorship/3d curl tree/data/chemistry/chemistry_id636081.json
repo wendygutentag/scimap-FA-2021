@@ -1,0 +1,16 @@
+{
+    "name":"AMARNATH  NATARAJAN",
+    "gender":"unknown",
+    "gender_color":"grey",
+    "researcharea":"chemistry",
+    "researcharea_color":"#B0313D",
+    "children":[
+        {
+            "name":"VASHTI C BRYANT",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"chemistry",
+            "researcharea_color":"#B0313D"
+        }
+    ]
+}

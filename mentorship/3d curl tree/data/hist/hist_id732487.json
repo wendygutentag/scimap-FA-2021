@@ -1,0 +1,16 @@
+{
+    "name":"DANIEL J VIVIAN",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"hist",
+    "researcharea_color":"#68A839",
+    "children":[
+        {
+            "name":"HANNAH M O'DANIEL",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"hist",
+            "researcharea_color":"#68A839"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "name":"SUZANNE E LAPI",
+    "gender":"woman",
+    "gender_color":"red",
+    "researcharea":"chemistry",
+    "researcharea_color":"#B0313D",
+    "children":[
+        {
+            "name":"NILANTHA  BANDARA",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"chemistry",
+            "researcharea_color":"#B0313D"
+        }
+    ]
+}

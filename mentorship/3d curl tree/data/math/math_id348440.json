@@ -1,0 +1,16 @@
+{
+    "name":"MILOS  DOSTAL",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"math",
+    "researcharea_color":"#8F3CCC",
+    "children":[
+        {
+            "name":"PAUL S ROSSI",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"math",
+            "researcharea_color":"#8F3CCC"
+        }
+    ]
+}

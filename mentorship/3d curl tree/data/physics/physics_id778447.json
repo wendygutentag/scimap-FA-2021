@@ -1,0 +1,16 @@
+{
+    "name":"JUERGEN  ESCHNER",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"physics",
+    "researcharea_color":"#573470",
+    "children":[
+        {
+            "name":"HRIDYA  MEPPULLY SASIDHARAN",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"physics",
+            "researcharea_color":"#573470"
+        }
+    ]
+}

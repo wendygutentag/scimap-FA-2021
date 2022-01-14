@@ -1,0 +1,16 @@
+{
+    "name":"MARIO ENRIQUE RODRIGUEZ",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"chemistry",
+    "researcharea_color":"#B0313D",
+    "children":[
+        {
+            "name":"JOSE DE JESUS  PEREZ BUENO",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"chemistry",
+            "researcharea_color":"#B0313D"
+        }
+    ]
+}

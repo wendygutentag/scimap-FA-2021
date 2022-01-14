@@ -1,0 +1,30 @@
+{
+    "name":"KAY  GIESECKE",
+    "gender":"unknown",
+    "gender_color":"grey",
+    "researcharea":"math",
+    "researcharea_color":"#8F3CCC",
+    "children":[
+        {
+            "name":"EYMEN  ERRAIS",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"math",
+            "researcharea_color":"#8F3CCC"
+        },
+        {
+            "name":"SHAHRIAR  AZIZPOUR",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"math",
+            "researcharea_color":"#8F3CCC"
+        },
+        {
+            "name":"GUSTAVO A SCHWENKLER",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"math",
+            "researcharea_color":"#8F3CCC"
+        }
+    ]
+}

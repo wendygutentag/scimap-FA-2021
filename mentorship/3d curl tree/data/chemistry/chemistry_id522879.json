@@ -1,0 +1,16 @@
+{
+    "name":"KELLEY W MOREMEN",
+    "gender":"unknown",
+    "gender_color":"grey",
+    "researcharea":"chemistry",
+    "researcharea_color":"#B0313D",
+    "children":[
+        {
+            "name":"ALISON S NAIRN",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"chemistry",
+            "researcharea_color":"#B0313D"
+        }
+    ]
+}

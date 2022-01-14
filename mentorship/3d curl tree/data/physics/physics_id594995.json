@@ -1,0 +1,30 @@
+{
+    "name":"CHARISSA R LANSING",
+    "gender":"woman",
+    "gender_color":"red",
+    "researcharea":"physics",
+    "researcharea_color":"#573470",
+    "children":[
+        {
+            "name":"JAIMIE  GILBERT",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"physics",
+            "researcharea_color":"#573470"
+        },
+        {
+            "name":"JEFFERY B LARSEN",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"physics",
+            "researcharea_color":"#573470"
+        },
+        {
+            "name":"MICHAEL  HEFFERLY",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"physics",
+            "researcharea_color":"#573470"
+        }
+    ]
+}

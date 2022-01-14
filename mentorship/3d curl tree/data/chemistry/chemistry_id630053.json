@@ -1,0 +1,16 @@
+{
+    "name":"ANNA  PLAAS",
+    "gender":"woman",
+    "gender_color":"red",
+    "researcharea":"chemistry",
+    "researcharea_color":"#B0313D",
+    "children":[
+        {
+            "name":"JENNIFER R VELASCO",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"chemistry",
+            "researcharea_color":"#B0313D"
+        }
+    ]
+}

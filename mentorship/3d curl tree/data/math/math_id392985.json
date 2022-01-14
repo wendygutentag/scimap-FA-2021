@@ -1,0 +1,30 @@
+{
+    "name":"KNUT  SOLNA",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"math",
+    "researcharea_color":"#8F3CCC",
+    "children":[
+        {
+            "name":"RAFAEL  DE SANTIAGO",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"math",
+            "researcharea_color":"#8F3CCC"
+        },
+        {
+            "name":"TRISTAN R EGUALADA",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"math",
+            "researcharea_color":"#8F3CCC"
+        },
+        {
+            "name":"MICHAIL  KORNIOTIS",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"math",
+            "researcharea_color":"#8F3CCC"
+        }
+    ]
+}

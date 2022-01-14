@@ -1,0 +1,16 @@
+{
+    "name":"JOHN  HEINEMAN",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"hist",
+    "researcharea_color":"#68A839",
+    "children":[
+        {
+            "name":"JAMES K BIDWELL",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"hist",
+            "researcharea_color":"#68A839"
+        }
+    ]
+}

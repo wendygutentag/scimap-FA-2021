@@ -1,0 +1,32 @@
+{
+    "name":"PAVEL  SUNKA",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"physics",
+    "researcharea_color":"#573470",
+    "children":[
+        {
+            "name":"MARCEL  FUCIMAN",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"physics",
+            "researcharea_color":"#573470",
+            "children":[
+                {
+                    "name":"VALENTYNA  KUZNETSOVA",
+                    "gender":"woman",
+                    "gender_color":"red",
+                    "researcharea":"physics",
+                    "researcharea_color":"#573470"
+                },
+                {
+                    "name":"IVANA  SIMOVA",
+                    "gender":"woman",
+                    "gender_color":"red",
+                    "researcharea":"physics",
+                    "researcharea_color":"#573470"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "name":"JEAN-LUC  BRYLINSKI",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"math",
+    "researcharea_color":"#8F3CCC",
+    "children":[
+        {
+            "name":"ALEXANDER P ULYANOV",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"math",
+            "researcharea_color":"#8F3CCC"
+        }
+    ]
+}

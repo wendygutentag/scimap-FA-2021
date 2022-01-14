@@ -1,0 +1,30 @@
+{
+    "name":"LARRY E BANTA",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"math",
+    "researcharea_color":"#8F3CCC",
+    "children":[
+        {
+            "name":"PHILIP  BIEDLER",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"math",
+            "researcharea_color":"#8F3CCC"
+        },
+        {
+            "name":"ALEX  TSAI",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"math",
+            "researcharea_color":"#8F3CCC"
+        },
+        {
+            "name":"BERNARDO  RESTREPO",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"math",
+            "researcharea_color":"#8F3CCC"
+        }
+    ]
+}

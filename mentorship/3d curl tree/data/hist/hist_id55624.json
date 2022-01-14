@@ -1,0 +1,16 @@
+{
+    "name":"JOHN  CHRISTOPHER",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"hist",
+    "researcharea_color":"#68A839",
+    "children":[
+        {
+            "name":"DAVID K COHEN",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"educ",
+            "researcharea_color":"#A3EA27"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "name":"KLAUSE  GRAWE",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"psych",
+    "researcharea_color":"#3CDE38",
+    "children":[
+        {
+            "name":"FRANZ  CASPER",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"psych",
+            "researcharea_color":"#3CDE38",
+            "children":[
+                {
+                    "name":"THOMAS  BERGER",
+                    "gender":"man",
+                    "gender_color":"blue",
+                    "researcharea":"psych",
+                    "researcharea_color":"#3CDE38"
+                }
+            ]
+        },
+        {
+            "name":"MARTIN GROSSE HOLTFORTH",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"psych",
+            "researcharea_color":"#3CDE38"
+        }
+    ]
+}

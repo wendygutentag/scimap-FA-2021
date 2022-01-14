@@ -1,0 +1,16 @@
+{
+    "name":"JOSEPH M NOTTERMAN",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"psych",
+    "researcharea_color":"#3CDE38",
+    "children":[
+        {
+            "name":"STEPHEN C FOWLER",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"neuro",
+            "researcharea_color":"#F3E09A"
+        }
+    ]
+}

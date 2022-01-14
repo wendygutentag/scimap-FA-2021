@@ -1,0 +1,16 @@
+{
+    "name":"TRACY R GLEASON",
+    "gender":"unknown",
+    "gender_color":"grey",
+    "researcharea":"psych",
+    "researcharea_color":"#3CDE38",
+    "children":[
+        {
+            "name":"HARUKA  NOTSU",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"psych",
+            "researcharea_color":"#3CDE38"
+        }
+    ]
+}

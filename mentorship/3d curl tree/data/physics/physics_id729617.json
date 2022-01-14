@@ -1,0 +1,32 @@
+{
+    "name":"YOHANNES  DEWANTO",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"physics",
+    "researcharea_color":"#573470",
+    "children":[
+        {
+            "name":"HARRY  RAMZA",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"physics",
+            "researcharea_color":"#573470",
+            "children":[
+                {
+                    "name":"RIDWAN  MONTEZARI",
+                    "gender":"man",
+                    "gender_color":"blue",
+                    "researcharea":"physics",
+                    "researcharea_color":"#573470"
+                },
+                {
+                    "name":"ANDI  TRITANOTO",
+                    "gender":"man",
+                    "gender_color":"blue",
+                    "researcharea":"physics",
+                    "researcharea_color":"#573470"
+                }
+            ]
+        }
+    ]
+}

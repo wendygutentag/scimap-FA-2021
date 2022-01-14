@@ -1,0 +1,16 @@
+{
+    "name":"RENE A BRAVMANN",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"hist",
+    "researcharea_color":"#68A839",
+    "children":[
+        {
+            "name":"VELMA J YAMASHITA",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"hist",
+            "researcharea_color":"#68A839"
+        }
+    ]
+}

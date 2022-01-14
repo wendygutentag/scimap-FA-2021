@@ -1,0 +1,32 @@
+{
+    "name":"THEODORE A SCAMBOS",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"physics",
+    "researcharea_color":"#573470",
+    "children":[
+        {
+            "name":"IAN M HOWAT",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"physics",
+            "researcharea_color":"#573470",
+            "children":[
+                {
+                    "name":"KAITLIN  HARBECK",
+                    "gender":"woman",
+                    "gender_color":"red",
+                    "researcharea":"physics",
+                    "researcharea_color":"#573470"
+                },
+                {
+                    "name":"ELLYN  ENDERLIN",
+                    "gender":"woman",
+                    "gender_color":"red",
+                    "researcharea":"physics",
+                    "researcharea_color":"#573470"
+                }
+            ]
+        }
+    ]
+}

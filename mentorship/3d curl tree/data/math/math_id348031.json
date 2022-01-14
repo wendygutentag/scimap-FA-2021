@@ -1,0 +1,30 @@
+{
+    "name":"BRUCE R CHILDERS",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"math",
+    "researcharea_color":"#8F3CCC",
+    "children":[
+        {
+            "name":"ALEXANDRE P FERREIRA",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"math",
+            "researcharea_color":"#8F3CCC"
+        },
+        {
+            "name":"JONATHAN  MISURDA",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"math",
+            "researcharea_color":"#8F3CCC"
+        },
+        {
+            "name":"JOSE A BAIOCCHI PAREDES",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"math",
+            "researcharea_color":"#8F3CCC"
+        }
+    ]
+}

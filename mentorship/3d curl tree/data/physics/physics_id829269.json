@@ -1,0 +1,16 @@
+{
+    "name":"CHRIS R KLEIJN",
+    "gender":"unknown",
+    "gender_color":"grey",
+    "researcharea":"physics",
+    "researcharea_color":"#573470",
+    "children":[
+        {
+            "name":"AMIN  EBRAHIMI",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"etree",
+            "researcharea_color":"#007235"
+        }
+    ]
+}

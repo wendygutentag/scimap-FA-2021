@@ -1,0 +1,16 @@
+{
+    "name":"WILL  JONES",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"hist",
+    "researcharea_color":"#68A839",
+    "children":[
+        {
+            "name":"JESSE  GANT",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"hist",
+            "researcharea_color":"#68A839"
+        }
+    ]
+}

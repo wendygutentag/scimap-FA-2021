@@ -1,0 +1,34 @@
+{
+    "name":"BRIAN  ROBINSON",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"chemistry",
+    "researcharea_color":"#B0313D",
+    "children":[
+        {
+            "name":"JULIAN  EASTOE",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"chemistry",
+            "researcharea_color":"#B0313D",
+            "children":[
+                {
+                    "name":"ALISON  PAUL",
+                    "gender":"woman",
+                    "gender_color":"red",
+                    "researcharea":"chemistry",
+                    "researcharea_color":"#B0313D",
+                    "children":[
+                        {
+                            "name":"NIMAI  MEHTA",
+                            "gender":"man",
+                            "gender_color":"blue",
+                            "researcharea":"chemistry",
+                            "researcharea_color":"#B0313D"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

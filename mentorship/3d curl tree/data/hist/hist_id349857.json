@@ -1,0 +1,16 @@
+{
+    "name":"LISA  YONEYAMA",
+    "gender":"woman",
+    "gender_color":"red",
+    "researcharea":"literature",
+    "researcharea_color":"#6FA335",
+    "children":[
+        {
+            "name":"ASAKO  MASUBUCHI",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"hist",
+            "researcharea_color":"#68A839"
+        }
+    ]
+}

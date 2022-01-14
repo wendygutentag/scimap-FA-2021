@@ -1,0 +1,34 @@
+{
+    "name":"KLAUS  RAJEWSKY",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"chemistry",
+    "researcharea_color":"#B0313D",
+    "children":[
+        {
+            "name":"MICHAEL SAMUEL NEUBERGER",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"chemistry",
+            "researcharea_color":"#B0313D",
+            "children":[
+                {
+                    "name":"JULIAN E SALE",
+                    "gender":"man",
+                    "gender_color":"blue",
+                    "researcharea":"chemistry",
+                    "researcharea_color":"#B0313D",
+                    "children":[
+                        {
+                            "name":"DAVID  SZUTS",
+                            "gender":"man",
+                            "gender_color":"blue",
+                            "researcharea":"chemistry",
+                            "researcharea_color":"#B0313D"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

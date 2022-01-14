@@ -1,0 +1,16 @@
+{
+    "name":"SHIAO Y WANG",
+    "gender":"unknown",
+    "gender_color":"grey",
+    "researcharea":"math",
+    "researcharea_color":"#8F3CCC",
+    "children":[
+        {
+            "name":"LATONYA A CLAY",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"math",
+            "researcharea_color":"#8F3CCC"
+        }
+    ]
+}

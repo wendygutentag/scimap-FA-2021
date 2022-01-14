@@ -1,0 +1,32 @@
+{
+    "name":"ROBERT J LEVY",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"chemistry",
+    "researcharea_color":"#B0313D",
+    "children":[
+        {
+            "name":"STEVEN P SCHWENDEMAN",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"chemistry",
+            "researcharea_color":"#B0313D",
+            "children":[
+                {
+                    "name":"SAMUEL E REINHOLD",
+                    "gender":"man",
+                    "gender_color":"blue",
+                    "researcharea":"chemistry",
+                    "researcharea_color":"#B0313D"
+                },
+                {
+                    "name":"ANDREAS M SOPHOCLEOUS",
+                    "gender":"man",
+                    "gender_color":"blue",
+                    "researcharea":"chemistry",
+                    "researcharea_color":"#B0313D"
+                }
+            ]
+        }
+    ]
+}

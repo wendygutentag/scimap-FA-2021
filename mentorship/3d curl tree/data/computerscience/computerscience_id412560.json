@@ -1,0 +1,16 @@
+{
+    "name":"SRINIDHI  VARADARAJAN",
+    "gender":"woman",
+    "gender_color":"red",
+    "researcharea":"computerscience",
+    "researcharea_color":"#10887E",
+    "children":[
+        {
+            "name":"JOY  MUKHERJEE",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"computerscience",
+            "researcharea_color":"#10887E"
+        }
+    ]
+}

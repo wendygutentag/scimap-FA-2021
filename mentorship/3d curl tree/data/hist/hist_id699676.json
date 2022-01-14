@@ -1,0 +1,16 @@
+{
+    "name":"LENARD  BERCANSTEIN",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"hist",
+    "researcharea_color":"#68A839",
+    "children":[
+        {
+            "name":"GAVIN  MURRAY-MILLER",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"hist",
+            "researcharea_color":"#68A839"
+        }
+    ]
+}

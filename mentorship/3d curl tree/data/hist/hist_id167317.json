@@ -1,0 +1,16 @@
+{
+    "name":"TABITHA  KANOGO",
+    "gender":"woman",
+    "gender_color":"red",
+    "researcharea":"hist",
+    "researcharea_color":"#68A839",
+    "children":[
+        {
+            "name":"CORRIE R DECKER",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"hist",
+            "researcharea_color":"#68A839"
+        }
+    ]
+}

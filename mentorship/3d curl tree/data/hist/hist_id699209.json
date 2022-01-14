@@ -1,0 +1,16 @@
+{
+    "name":"JANIS  APPIER",
+    "gender":"woman",
+    "gender_color":"red",
+    "researcharea":"hist",
+    "researcharea_color":"#68A839",
+    "children":[
+        {
+            "name":"ANGELA F KEATON",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"hist",
+            "researcharea_color":"#68A839"
+        }
+    ]
+}

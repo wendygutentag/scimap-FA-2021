@@ -1,0 +1,23 @@
+{
+    "name":"WAYNE D GROVER",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"computerscience",
+    "researcharea_color":"#10887E",
+    "children":[
+        {
+            "name":"DIANE P ONGUETOU BOAYE",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"computerscience",
+            "researcharea_color":"#10887E"
+        },
+        {
+            "name":"MATTHIEU A CLOUQUEUR",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"computerscience",
+            "researcharea_color":"#10887E"
+        }
+    ]
+}

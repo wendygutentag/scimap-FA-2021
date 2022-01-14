@@ -1,0 +1,16 @@
+{
+    "name":"SHEMIN  GE",
+    "gender":"unknown",
+    "gender_color":"grey",
+    "researcharea":"physics",
+    "researcharea_color":"#573470",
+    "children":[
+        {
+            "name":"PAULA A CUTILLO",
+            "gender":"woman",
+            "gender_color":"red",
+            "researcharea":"physics",
+            "researcharea_color":"#573470"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "name":"CHRISTIAN  GUIMELLI",
+    "gender":"man",
+    "gender_color":"blue",
+    "researcharea":"psych",
+    "researcharea_color":"#3CDE38",
+    "children":[
+        {
+            "name":"GREGORY  LO MONACO",
+            "gender":"man",
+            "gender_color":"blue",
+            "researcharea":"psych",
+            "researcharea_color":"#3CDE38"
+        }
+    ]
+}
